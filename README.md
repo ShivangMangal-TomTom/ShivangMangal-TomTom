@@ -62,7 +62,12 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">
 
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+### ⚡️⚡️ Github Stats
+
+<br>
+<p align="center"><img width="50%" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ShivangMangal-TomTom&theme=neon_blurange&date_format=M%20j%5B%2C%20Y%5D&background=020615&border=DDDDDD)](https://git.io/streak-stats" alt="Shivang's Streak Status" style="display: flex; justify-content: center;"/>
+</p>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">
 
