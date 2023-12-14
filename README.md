@@ -1,6 +1,22 @@
-<h2 align="center">Hi 🖖🏻<br>I'm Shivang from India. Welcome to my profile!</h2>
+<h1 align="center">Hi 🖖🏻, I'm Shivang. Welcome to my profile!</h1>
 
-###
+<img align="right" height="150" src="https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966"  />
+
+<p align="left">
+
+### Connect with me on:
+
+<br>
+<a href="https://linkedin.com/in/shivang-mangal"><img src="https://img.shields.io/badge/linkedin-0c59e8?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:shivang.mangal@tomtom.com?subject=Hola%20Shivang"><img src="https://img.shields.io/badge/gmail-23D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="https://github.com/shivang16"><img src="https://img.shields.io/badge/github-292323?&style=for-the-badge&logo=github&logoColor=white" alt="Github"/></a>&nbsp;
+<a href="https://leetcode.com/baymax16/"><img src="https://img.shields.io/badge/leetcode-c96226?&style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode"/></a>&nbsp;
+<a href="https://www.hackerrank.com/baymax16"><img src="https://img.shields.io/badge/hackerrank-099c09?&style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank"/></a>&nbsp;
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">
+
+### Languages and Tools:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -44,15 +60,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
 </div>
 
-###
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-</div>
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 
-###
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966"  />
-
-###
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
